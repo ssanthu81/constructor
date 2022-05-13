@@ -1,0 +1,13 @@
+/Users/denashivanandareddypitta/Projects/firstss/firstss/bin/Debug/netcoreapp3.1/firstss.deps.json
+/Users/denashivanandareddypitta/Projects/firstss/firstss/bin/Debug/netcoreapp3.1/firstss.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/firstss/firstss/bin/Debug/netcoreapp3.1/firstss.runtimeconfig.dev.json
+/Users/denashivanandareddypitta/Projects/firstss/firstss/bin/Debug/netcoreapp3.1/firstss.dll
+/Users/denashivanandareddypitta/Projects/firstss/firstss/bin/Debug/netcoreapp3.1/firstss.pdb
+/Users/denashivanandareddypitta/Projects/firstss/firstss/obj/Debug/netcoreapp3.1/firstss.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/firstss/firstss/obj/Debug/netcoreapp3.1/firstss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/firstss/firstss/obj/Debug/netcoreapp3.1/firstss.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/firstss/firstss/obj/Debug/netcoreapp3.1/firstss.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/firstss/firstss/obj/Debug/netcoreapp3.1/firstss.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/firstss/firstss/obj/Debug/netcoreapp3.1/firstss.dll
+/Users/denashivanandareddypitta/Projects/firstss/firstss/obj/Debug/netcoreapp3.1/firstss.pdb
+/Users/denashivanandareddypitta/Projects/firstss/firstss/obj/Debug/netcoreapp3.1/firstss.genruntimeconfig.cache

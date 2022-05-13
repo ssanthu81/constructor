@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/denashivanandareddypitta/Projects/firstss/firstss/firstss.csproj": {}
+  },
+  "projects": {
+    "/Users/denashivanandareddypitta/Projects/firstss/firstss/firstss.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/denashivanandareddypitta/Projects/firstss/firstss/firstss.csproj",
+        "projectName": "firstss",
+        "projectPath": "/Users/denashivanandareddypitta/Projects/firstss/firstss/firstss.csproj",
+        "packagesPath": "/Users/denashivanandareddypitta/.nuget/packages/",
+        "outputPath": "/Users/denashivanandareddypitta/Projects/firstss/firstss/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denashivanandareddypitta/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

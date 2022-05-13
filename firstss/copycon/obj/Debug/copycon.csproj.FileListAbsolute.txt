@@ -1,0 +1,5 @@
+/Users/denashivanandareddypitta/Projects/firstss/copycon/bin/Debug/copycon.exe
+/Users/denashivanandareddypitta/Projects/firstss/copycon/bin/Debug/copycon.pdb
+/Users/denashivanandareddypitta/Projects/firstss/copycon/obj/Debug/copycon.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/firstss/copycon/obj/Debug/copycon.exe
+/Users/denashivanandareddypitta/Projects/firstss/copycon/obj/Debug/copycon.pdb

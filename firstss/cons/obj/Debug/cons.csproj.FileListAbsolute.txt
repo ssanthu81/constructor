@@ -1,0 +1,6 @@
+/Users/denashivanandareddypitta/Projects/firstss/cons/bin/Debug/cons.exe
+/Users/denashivanandareddypitta/Projects/firstss/cons/bin/Debug/cons.pdb
+/Users/denashivanandareddypitta/Projects/firstss/cons/obj/Debug/cons.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/firstss/cons/obj/Debug/cons.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/firstss/cons/obj/Debug/cons.exe
+/Users/denashivanandareddypitta/Projects/firstss/cons/obj/Debug/cons.pdb
